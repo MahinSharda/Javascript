@@ -1,0 +1,18 @@
+const userId = 144553; // This is my unique user ID
+let userEmail = "mahin@google.com"; // My email address
+var userPassword = "12345"; // Initial password
+let userCity = "Mohali"; // City where I live
+let userState; // Still figuring out the state of mind :P
+
+// userId = 2; // Can't change this, it's fixed
+
+// Updating my details as per new account setup
+userEmail = "mahin@mahin.com"; // New email address
+userPassword = "21212121"; // New password for security
+userCity = "Bengaluru"; // If I shift, this will change
+
+console.log(userId); // Show my unique user ID in console
+
+// Reminder: Avoid 'var' in modern code, stick to 'let' or 'const' for better scope control
+
+console.table([userId, userEmail, userPassword, userCity, userState]); // Displaying my details in a table
