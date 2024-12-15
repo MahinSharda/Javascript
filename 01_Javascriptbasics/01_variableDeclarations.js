@@ -8,7 +8,7 @@ let userState; // Still figuring out the state of mind :P
 
 // Updating my details as per new account setup
 userEmail = "mahin@mahin.com"; // New email address
-userPassword = "21212121"; // New password for security
+userPassword = "212121"; // New password for security
 userCity = "Bengaluru"; // If I shift, this will change
 
 console.log(userId); // Show my unique user ID in console
