@@ -20,7 +20,7 @@ let state; // A variable declared but not initialized (undefined)
 // - Undefined: A variable declared but not assigned a value
 // - Symbol: A unique identifier
 
-// Objects: Used to store multiple related values as key-value pairs.
+// Objects: Used to store multiple related values as key-value pairs
 
 // Type checking examples
 console.log(typeof undefined); // undefined
