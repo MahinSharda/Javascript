@@ -1,5 +1,5 @@
-const userName = "hitesh"; // User's name variable
-const repoCount = 50; // Number of repositories
+const userName = "mahin"; // User's name variable
+const repoCount = 20; // Number of repositories
 
 // Logging user name and repo count using template literals
 console.log(`Hello my name is ${userName} and my repo count is ${repoCount}`);
@@ -37,13 +37,13 @@ console.log(spacedString); // String with spaces at both ends
 console.log(spacedString.trim()); // Removing spaces from both ends
 
 // URL string with encoded characters
-const urlString = "https://hitesh.com/hitesh%20choudhary";
+const urlString = "https://www.youtube.com";
 
 // Replacing '%20' with a dash in the URL
 console.log(urlString.replace("%20", "-")); // Replacing encoded space with a dash
 
 // Checking if the string contains the word 'sundar'
-console.log(urlString.includes("sundar")); // Checking for 'sundar'
+console.log(urlString.includes("mahin")); // Checking for 'mahin'
 
 // Splitting the game name string based on '-'
 console.log(gameDetails.split("-")); // Splitting game name into an array
