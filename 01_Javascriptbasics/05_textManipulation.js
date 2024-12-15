@@ -42,7 +42,7 @@ const urlString = "https://www.youtube.com";
 // Replacing '%20' with a dash in the URL
 console.log(urlString.replace("%20", "-")); // Replacing encoded space with a dash
 
-// Checking if the string contains the word 'sundar'
+// Checking if the string contains the word 'mahin'
 console.log(urlString.includes("mahin")); // Checking for 'mahin'
 
 // Splitting the game name string based on '-'
