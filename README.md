@@ -159,4 +159,4 @@ console.log(2 === "2"); // false, because === checks both type and value
 ### Notes
 
 - Prefer **===** over **==** to avoid unexpected results caused by type coercion.
-- Using **===** makes your code more predictable and less error-prone.
+- Using **===** makes your code more predictable and less error-prone
