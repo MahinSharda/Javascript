@@ -15,4 +15,4 @@ console.log(userId); // Show my unique user ID in console
 
 // Reminder: Avoid 'var' in modern code, stick to 'let' or 'const' for better scope control
 
-console.table([userId, userEmail, userPassword, userCity, userState]); // Displaying my details in a table
+console.table([userId, userEmail, userPassword, userCity, userState]); // Displaying details in a table
