@@ -4,7 +4,7 @@ var userPassword = "12345"; // Initial password
 let userCity = "Mohali"; // City where I live
 let userState; // Still figuring out the state of mind :P
 
-// userId = 2; // Can't change this, it's fixed
+// userId = 2; // Can't change this, it is fixed
 
 // Updating my details as per new account setup
 userEmail = "mahin@mahin.com"; // New email address

@@ -5,7 +5,7 @@ console.log(3 + 3); // Prints the sum of 3 and 3
 
 console.log("Mahin"); // Prints a string
 
-// Declaring variables with different data types
+// Declaring variable with different data types
 let name = "Mahin"; // A string to store name
 let age = 18; // A number to store age
 let isLoggedIn = false; // A boolean to check login status

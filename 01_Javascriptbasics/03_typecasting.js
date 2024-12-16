@@ -1,4 +1,4 @@
-"use strict"; // Strict mode ensures better error checking and cleaner code
+"use strict"; // Strict mode ensures better error checking and making the code cleaner
 
 // Type Conversion Examples
 let score = "mahin"; // Declaring a variable 'score' with a string value

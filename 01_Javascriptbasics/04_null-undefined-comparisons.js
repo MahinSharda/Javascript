@@ -20,7 +20,7 @@
 // Check if the string "2" is greater than the number 1
 // console.log("2" > 1); // Expected output: true, JavaScript converts "2" to number and compares
 
-// Check if "02" is greater than the number 1
+// Check if "02" is greater than number 1
 // console.log("02" > 1); // Expected output: true, "02" is treated as 2 after conversion
 
 // Comparison with null and undefined

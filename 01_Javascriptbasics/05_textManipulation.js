@@ -7,10 +7,10 @@ console.log(`Hello my name is ${userName} and my repo count is ${repoCount}`);
 // Creating a string object for the game name
 const gameDetails = new String("hitesh-hc-com");
 
-// Accessing the first character of the string (commented out to prevent output)
+// Accessing the first character of the string
 console.log(gameDetails[0]); // First character of the game name
 
-// Checking the prototype of the string object (commented out as it's not needed for output)
+// Checking the prototype of the string object
 console.log(gameDetails.__proto__);
 
 // Logging the length of the string and converting it to uppercase (commented out unnecessary outputs)
