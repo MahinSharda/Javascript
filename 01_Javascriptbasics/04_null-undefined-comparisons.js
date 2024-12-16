@@ -45,4 +45,4 @@ console.log(undefined < 0); // Expected output: false, undefined can't be compar
 
 // Strict equality check (===)
 
-console.log("2" === 2); // Expected output: false because one is a string and the other is a
+console.log("2" === 2); // Expected output: false because one is a string and the other is a number
