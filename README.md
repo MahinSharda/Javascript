@@ -1,6 +1,6 @@
 # JavaScript - Key Concepts
 
-## About This Reposito
+## About This repository
 
 This repository contains JavaScript code to understand core concepts, including variables, basic operations, and data types. It focuses on best practices like using `let` and `const`, working with different data types, and performing basic arithmetic operations.
 
@@ -142,7 +142,7 @@ console.log(undefined > 0); // false, undefined cannot be compared to numbers
 console.log(undefined < 0); // false, undefined cannot be compared to numbers
 ```
 
-## 16. _Strict Equality (===) vs Loose Equality (==)_
+## 16. Strict Equality (===) vs Loose Equality (==)
 
 ### Key Differences:
 
