@@ -13,7 +13,7 @@ console.log(gameDetails[0]); // First character of the game name
 // Checking the prototype of the string object
 console.log(gameDetails.__proto__);
 
-// Logging the length of the string and converting it to uppercase (commented out unnecessary outputs)
+// Logging the length of the string and converting it to uppercase
 console.log(gameDetails.length); // Length of the string
 console.log(gameDetails.toUpperCase()); // Converting the game name to uppercase
 
