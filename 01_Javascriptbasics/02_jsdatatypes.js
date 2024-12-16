@@ -8,7 +8,7 @@ console.log("Mahin"); // Prints a string
 // Declaring variable with different data types
 let name = "Mahin"; // A string to store name
 let age = 18; // A number to store age
-let isLoggedIn = false; // A boolean to check login status
+let isLoggedIn = false; // Boolean to check login status
 let state; // A variable declared but not initialized (undefined)
 
 // Different data types in JavaScript:
