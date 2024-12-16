@@ -1,6 +1,6 @@
 # JavaScript - Key Concepts
 
-## About This Repository
+## About This Reposito
 
 This repository contains JavaScript code to understand core concepts, including variables, basic operations, and data types. It focuses on best practices like using `let` and `const`, working with different data types, and performing basic arithmetic operations.
 
