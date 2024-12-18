@@ -22,7 +22,7 @@ let booleanIsLoggedIn = Boolean(isLoggedIn);
 // Possible conversions
 // 1 => true; 0 => false (Numbers to boolean)
 // "" => false (Empty string is falsy)
-// "mahin" => true (Non-empty string is truthy)
+// "mahin" => true (Non empty string is truthy)
 
 let someNumber = 33; // Declaring a number variable
 
