@@ -1,5 +1,5 @@
 const userName = "mahin"; // User's name variable
-const repoCount = 20; // Number of repositories
+const repoCount = 20;
 
 // Logging user name and repo count using template literals
 console.log(`Hello my name is ${userName} and my repo count is ${repoCount}`);
