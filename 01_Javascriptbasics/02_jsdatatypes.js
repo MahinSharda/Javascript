@@ -1,7 +1,7 @@
 "use strict"; // Treat all JavaScript code as the latest version
 
 // Basic addition example
-console.log(3 + 3); // Prints the sum of 3 and 3
+console.log(3 + 3); // Prints the sum of 3 & 3
 
 console.log("Mahin"); // Prints a string
 
