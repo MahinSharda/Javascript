@@ -14,7 +14,7 @@ let state; // A variable declared but not initialized (undefined)
 // Different data types in JavaScript:
 // - Number: Numeric values like 2, 3.14
 // - BigInt: Large integers beyond the safe limit of Number
-// - String: Text values like "Mahin"
+// - String: Text values like "Mahin"or any name written within
 // - Boolean: Logical values (true or false)
 // - Null: An empty or non-existent value
 // - Undefined: A variable declared but not assigned a value
