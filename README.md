@@ -6,7 +6,7 @@ This repository contains JavaScript code to understand core concepts, including 
 
 ## Topics Covered
 
-- Variables and their types
+- Variables and their type
 - Strict mode and basic operations
 - Data types and type checking
 
