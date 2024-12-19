@@ -2,7 +2,7 @@
 
 ## About This repository
 
-This repository contains JavaScript code to understand core concepts, including variables, basic operations, and data types. It focuses on best practices like using `let` and `const`, working with different data types, and performing basic arithmetic operations.
+This repository contains JavaScript code to understand core concepts, including variables, basic operations, and data types. It focuses on best practices like using `let` and `const`, working with different data types, and performing basic arithmetic operations
 
 ## Topics Covered
 
