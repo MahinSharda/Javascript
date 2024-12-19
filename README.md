@@ -72,7 +72,7 @@ This repository contains JavaScript code to understand core concepts, including 
   - Multiplication: `2 * 2` = `4`
   - Division: `2 / 3` = `0.666...`
   - Exponentiation: `2 ** 3` = `8`
-  - Modulus: `2 % 3` → `2`
+  - Modulus: `2 % 3` = `2`
 
 ### 10. **String Operations**
 
