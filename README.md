@@ -77,7 +77,7 @@ This repository contains JavaScript code to understand core concepts, including 
 ### 10. **String Operations**
 
 - **Concatenation:** Combine strings using the `+` operator. Example: `"hello" + " mahin"` results in `"hello mahin"`.
-- **String + Number:** Concatenation of strings and numbers results in strings. Example: `"1" + 2` results in `"12"`.
+- **String + Number:** Concatenation of strings and numbers results in strings. Example: `"1" + 2` results in `"12"`
 
 ### 11. **Operator Precedence**
 
