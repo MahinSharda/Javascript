@@ -69,7 +69,7 @@ This repository contains JavaScript code to understand core concepts, including 
 - **Basic Operations:** You can perform arithmetic with numbers. Examples:
   - Addition: `2 + 2` = `4`
   - Subtraction: `2 - 2` = `0`
-  - Multiplication: `2 * 2` → `4`
+  - Multiplication: `2 * 2` = `4`
   - Division: `2 / 3` → `0.666...`
   - Exponentiation: `2 ** 3` → `8`
   - Modulus: `2 % 3` → `2`
