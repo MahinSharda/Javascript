@@ -85,7 +85,7 @@ This repository contains JavaScript code to understand core concepts, including 
 
 ### 12. **Multiple Assignments**
 
-- **Multiple Variables:** You can assign the same value to multiple variables in one line. Example: `num1 = num2 = num3 = 2 + 2` results in `num1 = num2 = num3 = 4`.
+- **Multiple Variables:** You can assign the same value to multiple variables in one line. Example: `num1 = num2 = num3 = 2 + 2` results in `num1 = num2 = num3 = 4`
 
 ### 13. **Increment/Decrement Operations**
 
