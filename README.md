@@ -102,7 +102,7 @@ Comparison operators are used to compare values and return a boolean (true/false
 - **<= (Less than or equal to)**: Returns true if the left operand is less than or equal to the right.
 - **== (Loose equality)**: Compares two values for equality after type conversion.
 - **!= (Not equal)**: Returns true if two values are not equal after type conversion.
-- **=== (Strict equality)**: Compares two values for equality without type conversion.
+- **=== (Strict equality)**: Compares two values for equality without type conversion
 
 ### Examples
 
