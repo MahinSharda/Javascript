@@ -37,7 +37,7 @@ This repository contains JavaScript code to understand core concepts, including 
 
 ### 5. **Data Types in JavaScript**
 
-- **Number:** Numeric values like `2` or `3.14`.
+- **Number:** Numeric values like `2` or `3.14`
 - **BigInt:** For large integers.
 - **String:** Text values like `"Mahin"`.
 - **Boolean:** Logical values (`true`/`false`).
