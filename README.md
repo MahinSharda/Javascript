@@ -25,7 +25,7 @@ This repository contains JavaScript code to understand core concepts, including 
 ### 3. **Basic Operations**
 
 - **Addition Example:** `3 + 3` outputs `6` to the console.
-- **String Output:** `"Mahin"` is printed directly.
+- **String Output:** `"Mahin"` is printed directly
 
 ### 4. **Declaring Variables**
 
