@@ -16,7 +16,7 @@ This repository contains JavaScript code to understand core concepts, including 
 
 - **`let`:** Block-scoped variable declaration, preferred over `var`.
 - **`const`:** Declares a constant variable whose value cannot be changed.
-- **Avoid `var`:** It has function-scoped behavior, which can lead to bugs.
+- **Avoid `var`:** It has function-scoped behavior, which can lead to bugs
 
 ### 2. **Strict Mode**
 
