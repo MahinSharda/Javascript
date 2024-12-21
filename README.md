@@ -43,7 +43,7 @@ This repository contains JavaScript code to understand core concepts, including 
 - **Boolean:** Logical values (`true`/`false`).
 - **Null:** Represents an empty or non-existent value.
 - **Undefined:** Declared variable with no value.
-- **Symbol:** Unique identifier used as object keys.
+- **Symbol:** Unique identifier used as object keys
 
 ### 6. **Type Checking**
 
