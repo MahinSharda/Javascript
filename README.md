@@ -47,7 +47,7 @@ This repository contains JavaScript code to understand core concepts, including 
 
 ### 6. **Type Checking**
 
-- **`typeof` Operator:** Used to check variable types. For example, `typeof undefined` returns `"undefined"`, and `typeof null` returns `"object"` (a known quirk).
+- **`typeof` Operator:** Used to check variable types. For example, `typeof undefined` returns `"undefined"`, and `typeof null` returns `"object"` (a known quirk)
 
 # JavaScript - Key Concepts
 
