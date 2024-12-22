@@ -81,7 +81,7 @@ This repository contains JavaScript code to understand core concepts, including 
 
 ### 11. **Operator Precedence**
 
-- **Order of Operations:** Operators are evaluated in a specific order. For example, `(3 + 4) * 5 % 3` → `2` (brackets first, then multiplication, then modulus).
+- **Order of Operations:** Operators are evaluated in a specific order. For example, `(3 + 4) * 5 % 3` → `2` (brackets first, then multiplication, then modulus)
 
 ### 12. **Multiple Assignments**
 
