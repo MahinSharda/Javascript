@@ -39,7 +39,7 @@ This repository contains JavaScript code to understand core concepts, including 
 
 - **Number:** Numeric values like `2` or `3.14`
 - **BigInt:** For large integers
-- **String:** Text values like `"Mahin"`.
+- **String:** Text values like `"Mahin"`
 - **Boolean:** Logical values (`true`/`false`).
 - **Null:** Represents an empty or non-existent value
 - **Undefined:** Declared variable with no value.
