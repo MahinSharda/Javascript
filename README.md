@@ -20,7 +20,7 @@ This repository contains JavaScript code to understand core concepts, including 
 
 ### 2. **Strict Mode**
 
-- **Definition:** `"use strict"` enforces stricter parsing and error handling in JavaScript, helping catch common mistakes.
+- **Definition:** `"use strict"` enforces stricter parsing and error handling in JavaScript, helping catch common mistakes
 
 ### 3. **Basic Operations**
 
