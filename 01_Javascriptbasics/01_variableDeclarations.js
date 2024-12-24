@@ -1,7 +1,7 @@
 const userId = 144553; // This is my unique user ID
 let userEmail = "mahin@google.com"; // My email address
 var userPassword = "12345"; // Initial password
-let userCity = "Mohali"; // City whe
+let userCity = "Mohali"; // City wh
 let userState; // Generally happy
 
 // userId = 2; // Can't change this, it is fixed
