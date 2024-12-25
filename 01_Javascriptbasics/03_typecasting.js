@@ -73,5 +73,5 @@ let gameCounter = 100;
 ++gameCounter; // Pre-increment: increments and returns the new value
 console.log(gameCounter); // 101 (value increased by 1)
 
-// Reference for more details
+// Reference for more detail
 // Link: https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
