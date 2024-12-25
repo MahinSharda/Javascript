@@ -6,7 +6,7 @@ let score = "mahin"; // Declaring a variable 'score' with a string value
 // Converting 'score' to a number using Number() function
 let valueInNumber = Number(score);
 // console.log(typeof valueInNumber); // Check the type of 'valueInNumber'
-// console.log(valueInNumber); // Check the value of 'valueInNumber'
+// console.log(valueInNumber); // Check the value of  'valueInNumber'
 
 // Possible conversions
 // "33" => 33 (valid number string gets converted to number)
