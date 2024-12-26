@@ -4,7 +4,7 @@
 // console.log(2 > 1); // Expected output: true, as 2 is greater than 1
 
 // Check if 2 is greater than or equal to 1
-// console.log(2 >= 1); // Expected output: true, because 2 is equal to or greate
+// console.log(2 >= 1); // Expected output: true, because 2 is equal to or great
 
 // Check if 2 is less than 1
 // console.log(2 < 1); // Expected output: false, because 2 is not less than 1
