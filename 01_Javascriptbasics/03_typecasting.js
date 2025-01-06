@@ -31,7 +31,7 @@ let stringNumber = String(someNumber);
 // console.log(stringNumber); // "33" (Number converted to string)
 // console.log(typeof stringNumber); // "string" (Type of 'stringNumber')
 
-// ********** Operations **********
+// ********* Operations **********
 
 let value = 3;
 let negValue = -value; // Unary negation of 'value'
